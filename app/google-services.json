@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "873890996667",
+    "project_id": "project--5058967786199250979"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873890996667:android:310d2214375e5e90",
+        "android_client_info": {
+          "package_name": "com.okanbasar.ga_test_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACYqUgX3m46M89-mFQXUt_rFRbA1jSOsA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-89085181-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
